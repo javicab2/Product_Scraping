@@ -7,4 +7,4 @@ Tasks:
 - data processing
 - csv export
 
-![](Products_ecommerce.JPG)
+![](products_ecommerce.JPG)
