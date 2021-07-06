@@ -2,8 +2,8 @@
 Simple product scraping from a small e-commerce
 
 Tasks:
-- Libraries importation
-- data extraction
+- Libraries import
+- data extraction (products name and prices)
 - data processing
 - csv export
 
